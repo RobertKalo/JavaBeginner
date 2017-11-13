@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Java kezdő blog
 
-You can use the [editor on GitHub](https://github.com/RobertKalo/JavaBeginner/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ez a blog a Java programozási tippeknek, elméleti ismereteknek a Java-val való ismerkedés során bejárt úton felszedegetett hasznos morzsáit gyűjti össze.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A blogírás mögötti szándék az volt, hogy egyrészt egy jól használható személyes tudásbázis jöjjön létre, ne merüljön a feledés homályába egy-egy szerencsésen vagy nehezen megtalált/megtanult hasznos ismeret.
+Másrészt hogy transzparenssé tegyem mások számára, hogy a Java mastery körülbelül mely fokán állok pillanatnyilag, tehát szándékaim szerint egyfajta összetett névjegykártyaként használható gyűjteménny áll össze idővel a rövid bejegyzésekből.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobertKalo/JavaBeginner/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Nem utolsósorban remélem, segítséget nyújt más lelkes Java kezdő programozók számára is az itt felhalmozott tudás, melyet szándékosan magyar nyelven teszek közzé.
